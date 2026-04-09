@@ -7,8 +7,9 @@
 ![image alt](https://github.com/Shannu1695/doctor-appointment-booking-hcl/blob/a1d68994d55253012442a8e64db7e5d9da0bff43/Screenshot%202026-04-09%20211407.png)
 
 ![image alt](https://github.com/Shannu1695/docor-appointment-booking-hcl/blob/eaf64490f549ab1406ea8cc3eaae8ebe3b11374c/Screenshot%202026-04-09%20191915.png)
-![image alt](https://github.com/Shannu1695/doctor-appointment-booking-hcl/blob/5215facb018c2f721cc5c0b6495e59dc2503b863/Screenshot%202026-04-09%20211609.png)
 
 ![image alt](https://github.com/Shannu1695/docor-appointment-booking-hcl/blob/ae044e0c8671c869944810b347c9823068dd4ab1/Screenshot%202026-04-09%20192342.png)
+![image alt](https://github.com/Shannu1695/doctor-appointment-booking-hcl/blob/5215facb018c2f721cc5c0b6495e59dc2503b863/Screenshot%202026-04-09%20211609.png)
+
 ![image alt](https://github.com/Shannu1695/docor-appointment-booking-hcl/blob/8e2c1618ee5aa5a29a12d0a0fbbd83c894c47af4/Screenshot%202026-04-09%20191953.png)
 
